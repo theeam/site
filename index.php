@@ -19,7 +19,7 @@
 	</header>
 	<div>
 			<?php
-			 	include "page.html";
+			 	include "page.php";
 			 ?>		
 	</div>
 

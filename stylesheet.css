@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: "comic sans ms";
+}
+
+#th1{
+	padding-top: 5px;
+	text-align: center;
+}
+#navigation {
+	height: auto;
+	padding: 10px;
+	background-color: black;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+#navigation a:hover{
+	background-color: white;
+	color:black;
+}
+#navigation a{
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+	vertical-align: center;
+	border-radius: 10px;
+}
+
+h2{
+	text-align: center;
+	padding-top: 10px;
+}
+#pe{
+	text-align: center;
+
+}
+i{
+	padding: 90px;
+}

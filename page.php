@@ -19,7 +19,7 @@
 		 include 'work.php';
 		  break;
 		default:
-		 include 'home.html';
+		 include 'home.php';
 		  break;  
 	}
 	

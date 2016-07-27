@@ -18,9 +18,7 @@
 		</nav>
 	</header>
 	<div>
-			<?php
-			 	include "page.php";
-			 ?>		
+			<h2>To be continued...</h2>	
 	</div>
 
 

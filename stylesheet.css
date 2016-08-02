@@ -3,39 +3,119 @@
 	padding: 0px;
 	font-family: "comic sans ms";
 }
+body{
+	background-color: #4d4d4d;
+}
 
 #th1{
 	padding-top: 5px;
 	text-align: center;
 }
+#th3{
+	padding-top: 5px;
+	text-align: center;
+}
 #navigation {
 	height: auto;
+	text-align: center;
+	width: auto;
 	padding: 10px;
-	background-color: black;
-	border-radius: 20px;
+	background-color: fuchsia;
+	border-radius: 90px;
 	font-weight: bold;
+	box-shadow: 2px 2px 2px;
 }
 
 #navigation a:hover{
 	background-color: white;
-	color:black;
+	color:lime;
+	text-shadow: 2px 2px 2px black;
+
+
 }
 #navigation a{
 	padding: 10px;
 	text-decoration: none;
 	color: white;
 	vertical-align: center;
-	border-radius: 10px;
+	border-radius: 15px;
+	text-shadow: 2px 2px 2px black;
 }
 
 h2{
 	text-align: center;
 	padding-top: 10px;
 }
-#pe{
+.p1{
 	text-align: center;
 
 }
 i{
-	padding: 90px;
+	padding: 10px;
 }
+
+footer{
+	width: auto;
+	text-shadow: 2px 2px 2px black;
+}
+
+#inner {		
+	border-top: solid 1px gray;
+	margin: 0 auto;
+	width: 75%;
+}
+
+#icones{
+	text-align: center;
+}
+
+
+
+#icones a:link{
+	color: fuchsia;
+}
+#icones a:visited{
+	color: white;
+}
+
+#icones a:hover{
+	color: lime;
+}
+
+#creditos{
+	text-align: center;
+	color: white;
+	font-style: bolder;
+}
+
+.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: fuchsia;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;
+
+
+}
+.botao a:link{
+	color: fuchsia;
+
+
+}
+.botao a:visited{
+	color: white;
+}
+.botao:hover{
+	color: lime;
+}
+.botao a:hover{
+	color: inherit;
+}
+#botao{
+	text-align: center;
+}
+
+

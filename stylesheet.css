@@ -117,7 +117,7 @@ footer{
 #botao{
 	text-align: center;
 }
-@media screen and (max-width: 1190px) {
+@media screen and (min-width: 1024px) {
 	.botao{
 	border: solid;
 	width: 12%;
@@ -128,7 +128,7 @@ footer{
 	text-decoration: none;
 	padding: 3px;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 768px) {
 	.botao{
 	border: solid;
 	width: 12%;
@@ -139,7 +139,7 @@ footer{
 	text-decoration: none;
 	padding: 3px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 480px) {
 	.botao{
 	border: solid;
 	width: 12%;
@@ -150,7 +150,7 @@ footer{
 	text-decoration: none;
 	padding: 3px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (min-width: 300px) {
 	.botao{
 	border: solid;
 	width: 12%;
@@ -161,7 +161,7 @@ footer{
 	text-decoration: none;
 	padding: 3px;
 }
-@media screen and (max-width: 300px) {
+@media screen and (min-width: 0px) {
 	.botao{
 	border: solid;
 	width: 12%;

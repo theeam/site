@@ -92,7 +92,7 @@ footer{
 	border: solid;
 	width: 12%;
 	box-shadow: 2px 2px 2px black;
-	color: fuchsia;
+	color: white;
 	border-radius: 90px;
 	font-size: 18px;
 	text-decoration: none;
@@ -117,5 +117,57 @@ footer{
 #botao{
 	text-align: center;
 }
-
-
+@media screen and (max-width: 1190px) {
+	.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: fuchsia;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;
+}
+@media screen and (max-width: 1024px) {
+	.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: blue;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;
+}
+@media screen and (max-width: 768px) {
+	.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: green;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;
+}
+@media screen and (max-width: 480px) {
+	.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: yellow;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;
+}
+@media screen and (max-width: 300px) {
+	.botao{
+	border: solid;
+	width: 12%;
+	box-shadow: 2px 2px 2px black;
+	color: red;
+	border-radius: 90px;
+	font-size: 18px;
+	text-decoration: none;
+	padding: 3px;}}
